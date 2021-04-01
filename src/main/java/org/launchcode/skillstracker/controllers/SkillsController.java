@@ -34,7 +34,7 @@ public class SkillsController {
                         "<label> Name: </label> <br>" +
                         "<input type = 'text' value='' name='name' ></input><br>" +
                         "<label> My Favourite Language : </label><br>" +
-                        "<select name = 'language1'>" +
+                        "<select name = 'language1'> " +
                         "<option >please choose language </option>" +
                         "<option value='Java Script'> Java Script </option>" +
                         "<option >Angular Java Script</option>" +
